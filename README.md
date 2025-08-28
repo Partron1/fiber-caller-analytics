@@ -79,4 +79,4 @@ FROM `tekstain-25.fibre.market_3`
 ![Query](Query.png)
 
 **Query result**
-![Query result]()
+![Query result](Query_result.png)
