@@ -74,3 +74,9 @@ new_market
 FROM `tekstain-25.fibre.market_3` 
 
 ```
+
+**Query**
+![Query](Query.png)
+
+**Query result**
+![Query result]()
