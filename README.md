@@ -83,4 +83,8 @@ FROM `tekstain-25.fibre.market_3`
 
 Results saved and downloded as .csv file, ready for further analysis and visualization in Tableau.
 
-**Visualization Mockup**
+**Visualization**
+
+**Dashboard Mockup**
+
+**Dashboard**
