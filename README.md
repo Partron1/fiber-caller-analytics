@@ -75,10 +75,13 @@ FROM `tekstain-25.fibre.market_3`
 
 ```
 
-**Query**
+**Query** 
 ![Query](Query.png)
 
-**Query result**
+**Query result** 
+
+target table
+
 ![Query result](Query_result.png)
 
 Results saved and downloded as .csv file, ready for further analysis and visualization in Tableau.
