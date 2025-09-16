@@ -90,6 +90,8 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 
 **Tool:** Tableua
 
+![Day 0 Calls by Day of Week](Day_0_Calls_by_Day_of_Week.png)
+
 ![Market and Type for First Call](Market_and_Type_for_First_Call.png)
 
 ![Repeat Calls by Month](Repeat_Calls_by_month.png)
