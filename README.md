@@ -1,6 +1,5 @@
 ## Fiber Call Center Analytics 
-This project highlights my Business Intelligence solution to support the Google Fiber Customer Service Team with a dashboard designed to gain insights into repeat callers.
-
+This project highlights Business Intelligence solution to support Google Fiber Customer Service Team with a dashboard designed to gain insights into repeat callers.
 
 **Business Problem**
 
@@ -8,7 +7,7 @@ The team’s ultimate goal is to communicate with the customers to reduce the ca
 
 **Project Requirment Documents**
 
-After a collaborative project meeting, I outlined three key requirement documents that shaped the scope and direction of the solution.
+After a collaborative project meeting, outlined are three key requirement documents that shaped the scope and direction of the solution.
 
 - Stakeholder requirement document
 - Project requirement document
@@ -24,7 +23,7 @@ The project started with three cleaned datasets provided by the data engineer in
 
 **Data Processing**
 
-The datasets were loaded into BigQuery for analysis. As they shared the same column structure, I only needed to write a query to union them into a single target table for further analysis and visualization.
+The datasets were loaded into BigQuery for analysis. As they shared the same column structure, I needed to write a query to union them into a single target table for further analysis and visualization.
 
 ```sql
 SELECT 
