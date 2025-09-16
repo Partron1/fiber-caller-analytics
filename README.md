@@ -87,8 +87,10 @@ target table
 Results saved and downloded as .csv file, ready for further analysis and visualization in Tableau.
 
 **Visualization**
+
 **Tool:** Tableua
 
+![Repeat Calls by Month](Repeat_Calls_by_month.png)
 
 **Dashboard Mockup**
 
