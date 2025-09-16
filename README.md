@@ -90,7 +90,7 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 
 **Tool:** Tableua
 
-[Repeat Calls by First Call](Repeat_Calls_by_First_Call.png)
+![Repeat Calls by First Call](Repeat_Calls_by_First_Call.png)
 
 ![Repeat Calls by Month](Repeat_Calls_by_month.png)
 
