@@ -90,7 +90,7 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 
 **Tool:** Tableua
 
-![Market and Type for First Call)(Market_and_Type_for_First_Call.png)
+![Market and Type for First Call](Market_and_Type_for_First_Call.png)
 
 ![Repeat Calls by First Call](Repeat_Calls_by_First_Call.png)
 
