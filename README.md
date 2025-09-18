@@ -74,8 +74,10 @@ FROM `tekstain-25.fibre.market_3`
 
 ```
 
+
 **Query** 
 ![Query](Query.png)
+
 
 **Query result** 
 
@@ -85,28 +87,38 @@ target table
 
 Results saved and downloded as .csv file, ready for further analysis and visualization in Tableau.
 
+
 **Visualization**
 
-**Tool:** Tableua
+- **Tool:** Tableua
 
 ![Day 0 Calls by Day of Week](Day_0_Calls_by_Day_of_Week.png)
 
+
 ![Market and Type for First Call](Market_and_Type_for_First_Call.png)
+
 
 ![Repeat Calls by Month](Repeat_Calls_by_month.png)
 
+
 ![Repeat Calls by First Call](Repeat_Calls_by_First_Call.png)
+
 
 ![Calls by market and Type](Calls_by_Market_and_Type.png)
 
+
 **Dashboard**
+
 
 - First Dashboard
 
 ![Dashboard_1](Dashboard_1.png)
+
 
 - Second Dashboard
 
 ![Dashboard_2](Dashboard_2.png)
 
 - Third Dashboard
+
+  
