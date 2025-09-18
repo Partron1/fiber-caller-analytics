@@ -100,3 +100,5 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 ![Calls by market and Type](Calls_by_Market_and_Type.png)
 
 **Dashboard**
+
+![Dashboard_1](Dashboard_1.png)
