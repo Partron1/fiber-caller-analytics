@@ -102,3 +102,5 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 **Dashboard**
 
 ![Dashboard_1](Dashboard_1.png)
+
+![Dashboard_2](Dashboard_2.png)
