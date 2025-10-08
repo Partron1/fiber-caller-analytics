@@ -30,7 +30,48 @@ To understand how effectively the team is able to answer customer questions and 
 •	Provide insights into the types of customer issues that seem to generate more repeat calls
 •	Explore repeat caller trends in the three different market cities
 •	Design charts so that stakeholders can |
-- Project requirement document
+
+
+  |Project requirement document|
+  |-----------------------------|
+  |**BI Analyst:** Francis Partron Addo
+**Client/Sponsor:** Emma Santiage, Hiring Manager
+**Purpose:** 
+As part of the interview process, the Fiber customer service team has asked for a dashboard using fictional call center data based on the data they use regularly on the job to gain insights about repeat callers. The team’s ultimate goal is to communicate with the customers to reduce the call volume and increase customer satisfaction and improve operational optimization. The dashboard you create should demonstrate an understanding of this goal and provide your stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent.
+**Key dependencies:** 
+The datasets are fictionalized versions of the actual data this team works with. Because of this, the data is already anonymized and approved. However, you will need to make sure that stakeholders have data access to all datasets so they can explore the steps you’ve taken. The primary contacts are Emma Santiago and Keith Portone.
+**Stakeholder requirements:** 
+Prioritized the requirements as: **R** - required, **D** - desired, or **N** - nice to have.)
+In order to continuously improve customer satisfaction, the dashboard must help Google Fiber decision-makers understand how often customers are having to repeatedly call and what problem types or other factors might be influencing those calls. 
+•	A chart or table measuring repeat calls by their first contact date **R**
+•	A chart or table exploring repeat calls by market and problem type **R**
+•	Charts showcasing repeat calls by week, month, and quarter **D**
+•	Provide insights into the types of customer issues that seem to generate more repeat calls **D**
+•	Explore repeat caller trends in the three different market cities **R**
+•	Design charts so that stakeholders can view trends by week, month, quarter, and year  **R**
+**Success criteria:** 
+•	Specific: BI insights must clearly identify the specific characteristics of a repeat calls, including how often customers are repeating calls. 
+•	Measurable: Calls should be evaluated using measurable metrics, including frequency and volume. For example, do customers call with a specific problem more often than others? Which market city experiences the most call? How many customers are calling more than once? 
+•	Action-oriented: These outcomes must quantify the number of repeat callers under different circumstances to provide the Google Fiber team with insights into customer satisfaction. 
+•	Relevant: All metrics must support the primary question: How often are customers repeatedly contacting the customer service team? 
+•	Time-bound: Analyze data that spans at least one year to understand how repeat callers change over time. Exploring data that spans multiple months will capture peaks and valleys in usage. 
+**User journeys:** 
+The team’s ultimate goal is to communicate with the customers to reduce the call volume and increase customer satisfaction and improve operational optimization. The dashboard you create should demonstrate an understanding of this goal and provide your stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent.
+**Assumptions:** 
+In order to anonymize and fictionalize the data, the datasets the **columns market_1, market_2, and market_3** to indicate three different city service areas the data represents. 
+**The data also lists five problem types:**
+•	Type_1 is account management
+•	Type_2 is technician troubleshooting
+•	Type_3 is scheduling
+•	Type_4 is construction
+•	Type_5 is internet and wifi
+Additionally, the dataset also records repeat calls over seven-day periods. The initial contact date is listed as contacts_n. The other call columns are then contacts_n_number of days since first call. For example, contacts_n_6 indicates six days since first contact. 
+**Compliance and privacy:**
+The datasets are fictionalized versions of the actual data this team works with. Because of this, the data is already anonymized and approved. However, you will need to make sure that stakeholders have data access to all datasets so they can explore the steps you’ve taken. 
+**Accessibility:** 
+The dashboards should offer text alternatives including large print and text-to-speech.
+**Roll-out plan**
+The stakeholders have requested a completed BI tool in six weeks.|
 - Strategy requirement document
 
 **Data source**
