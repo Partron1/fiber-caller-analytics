@@ -74,25 +74,40 @@ The dashboards should offer text alternatives including large print and text-to-
 The stakeholders have requested a completed BI tool in six weeks.|
 
 
+**Strategy Document:**
 
- |Name: Francis Partron Addo|Role: BI Analyst|Date 20th Aug.2025|
- |----------------------------|--------------------------------|-----------------|
- |                            |                                |
-  
-  
-  
-  Proposer: Emma Santiage, Hiring Manager
-Status: Draft > Under review > Implemented | Not implemented
-Dataset: market_1, market_2, market_3
-User Profiles 
+**Name:** Francis Partron Addo
+
+**Role:** BI Analyst
+
+**Date:** 20th Aug.2025
+
+**Proposer:** Emma Santiage, Hiring Manager
+
+**Status:** Draft > Under review > Implemented | Not implemented
+
+**Dataset:** market_1, market_2, market_3
+
+**User Profiles:**
+
 •	Emma Santiage, Hiring Manager
+
 •	Keith Portone, Project Manager
+
 •	Minna Rah, Lead BI Analyst
+
 •	Ian Ortega, BI Analyst
+
 •	Sylvie Essa, BI Analyst
-|
-  
- 
+
+  **Dashboard Functionality**
+  |         **Dashboard Feature**                 |      **Request**                 |
+  |--------------------------|-----------------------|
+  |     Reference dashboard                     |Build a new dashboard to explore the number of repeat callers and their problem types in three different market cities.|
+  |Access|Access will be provided as read-only to the user profiles listed in this document.|
+  |Scope|Fields include: date, market, problem_type, contact_n and contact_n_#|
+  |Date filters and granularity|Data filters can be applied for the following:Week, Month, Quarter                                                            **Granularity:** Any chart with detailed metrics should have the ability to click on that metric to view specific information.|
+
 
 **Data source**
 
