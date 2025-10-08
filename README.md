@@ -118,6 +118,37 @@ The stakeholders have requested a completed BI tool in six weeks.|
 |Dimension(s)|Date, Contact |
 |matrics| Date|
 
+ **Chart 2**
+|    Chart Feature        |    Request                |
+|-----------|---------------------|
+|     Chart Title      |    Market and Type for first repeat calls  |
+|Chart type| bar |
+|Dimension(s)|Contact, New market, New_type |
+|matrics| New_type|
+
+ **Chart 3**
+|    Chart Feature        |    Request                |
+|-----------|---------------------|
+|     Chart Title      |    Repeat Calls by Month  |
+|Chart type| bar |
+|Dimension(s)|Date, Value |
+|matrics| Contact|
+
+ **Chart 4**
+|    Chart Feature        |    Request                |
+|-----------|---------------------|
+|     Chart Title      |    Repeat Calls by first call date  |
+|Chart type| Table |
+|Dimension(s)|Date, contact |
+|matrics| Contact|
+
+ **Chart 5**
+|    Chart Feature        |    Request                |
+|-----------|---------------------|
+|     Chart Title      |  Calls by market and type  |
+|Chart type| Table |
+|Dimension(s)|contact,market and type |
+|matrics| Contact|
 **Data source**
 
 The project started with three cleaned datasets provided by the data engineer in .csv file. Although they came from different sources, the columns were standardized, making them ready for analysis.
