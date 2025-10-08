@@ -253,10 +253,16 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 **Overall insight:**
 Type_5 consistently generates the highest number of first repeat calls across all markets, especially in Markets 1 and 3. Market_2 has the lowest engagement overall, suggesting a need for further investigation into market conditions or operational factors there.
 
-
-
 ![Repeat Calls by Month](Repeat_Calls_by_month.png)
 
+**Key observations:**
+
+- **Overall repeat calls increased month over month**, rising from **21,134 in January** to **19,352 in February**, and peaking at **24,453 in March**, indicating growing repeat activity over time.
+- Across all months, **“Contacts N”** consistently dominates, representing the largest share of total repeat calls by a wide margin.
+- The remaining contact groups (**Contacts N1–N7**) show relatively stable but much smaller volumes, with slight growth from January to March.
+- **March** shows the highest values across nearly all contact categories, reinforcing the upward trend in repeat calls.
+**Overall insight:**
+Repeat call volume is trending upward through the first quarter, with a particularly strong increase in March. The consistent dominance of “Contacts N” suggests it’s the key driver of overall repeat activity, potentially warranting deeper analysis into its causes and patterns.
 
 ![Repeat Calls by First Call](Repeat_Calls_by_First_Call.png)
 
