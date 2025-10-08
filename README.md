@@ -50,11 +50,11 @@ In order to continuously improve customer satisfaction, the dashboard must help 
 •	Explore repeat caller trends in the three different market cities **R**
 •	Design charts so that stakeholders can view trends by week, month, quarter, and year  **R**
 **Success criteria:** 
-•	Specific: BI insights must clearly identify the specific characteristics of a repeat calls, including how often customers are repeating calls. 
-•	Measurable: Calls should be evaluated using measurable metrics, including frequency and volume. For example, do customers call with a specific problem more often than others? Which market city experiences the most call? How many customers are calling more than once? 
-•	Action-oriented: These outcomes must quantify the number of repeat callers under different circumstances to provide the Google Fiber team with insights into customer satisfaction. 
-•	Relevant: All metrics must support the primary question: How often are customers repeatedly contacting the customer service team? 
-•	Time-bound: Analyze data that spans at least one year to understand how repeat callers change over time. Exploring data that spans multiple months will capture peaks and valleys in usage. 
+•	**Specific:** BI insights must clearly identify the specific characteristics of a repeat calls, including how often customers are repeating calls. 
+•	**Measurable:** Calls should be evaluated using measurable metrics, including frequency and volume. For example, do customers call with a specific problem more often than others? Which market city experiences the most call? How many customers are calling more than once? 
+•	**Action-oriented:** These outcomes must quantify the number of repeat callers under different circumstances to provide the Google Fiber team with insights into customer satisfaction. 
+•	**Relevant:** All metrics must support the primary question: How often are customers repeatedly contacting the customer service team? 
+•	**Time-bound:** Analyze data that spans at least one year to understand how repeat callers change over time. Exploring data that spans multiple months will capture peaks and valleys in usage. 
 **User journeys:** 
 The team’s ultimate goal is to communicate with the customers to reduce the call volume and increase customer satisfaction and improve operational optimization. The dashboard you create should demonstrate an understanding of this goal and provide your stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent.
 **Assumptions:** 
