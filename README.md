@@ -73,10 +73,10 @@ The dashboards should offer text alternatives including large print and text-to-
 **Roll-out plan**
 The stakeholders have requested a completed BI tool in six weeks.|
 
- 
-  |Strategy requirement document|
+ |Strategy requirement document|
+  |----------------------------|
   |------------------|-------------|--------------------|
-  ||
+  |                  |             |                    |
 
 **Data source**
 
