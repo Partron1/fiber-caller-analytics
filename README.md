@@ -232,6 +232,16 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 
 ![Day 0 Calls by Day of Week](Day_0_Calls_by_Day_of_Week.png)
 
+### Key observations:
+
+- **Weekdays dominate call activity**, Monday through Friday account for the majority of calls each month.
+- **Monday** consistently has the highest or near-highest share (18.4–18.6%) in January and February, suggesting a post-weekend surge in activity.
+- In **March**, the pattern shifts slightly, **Wednesday and Thursday** see the highest call proportions (~18%), while Monday drops somewhat (15.4%).
+- **Weekends (Saturday and Sunday)** show the lowest call volumes throughout, particularly Sunday (7–9%).
+- The **distribution is relatively balanced across weekdays**, with small monthly variations but clear reduction on weekends.
+**Overall insight:** Call activity is heavily concentrated during weekdays, especially early to mid-week, with a consistent decline on weekends — indicating business-hour or workweek-driven calling behavior.
+
+
 
 ![Market and Type for First Call](Market_and_Type_for_First_Call.png)
 
