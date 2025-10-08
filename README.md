@@ -149,6 +149,8 @@ The stakeholders have requested a completed BI tool in six weeks.|
 |Chart type| Table |
 |Dimension(s)|contact,market and type |
 |matrics| Contact|
+
+
 **Data source**
 
 The project started with three cleaned datasets provided by the data engineer in .csv file. Although they came from different sources, the columns were standardized, making them ready for analysis.
