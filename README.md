@@ -232,7 +232,7 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 
 ![Day 0 Calls by Day of Week](Day_0_Calls_by_Day_of_Week.png)
 
-### Key observations:
+**Key observations:**
 
 - **Weekdays dominate call activity**, Monday through Friday account for the majority of calls each month.
 - **Monday** consistently has the highest or near-highest share (18.4–18.6%) in January and February, suggesting a post-weekend surge in activity.
@@ -242,8 +242,17 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 **Overall insight:** Call activity is heavily concentrated during weekdays, especially early to mid-week, with a consistent decline on weekends — indicating business-hour or workweek-driven calling behavior.
 
 
-
 ![Market and Type for First Call](Market_and_Type_for_First_Call.png)
+
+**Key observations:**
+
+- **Market_1** has the highest overall call volume, dominated by **type_5 (1,806 contacts)** and **type_2 (1,180 contacts)** — indicating these two call types are major drivers in this market.
+- **Market_2** has very low activity across all types, with **type_2** (105) and **type_5** (141) being the main contributors.
+- **Market_3** shows moderate activity, again led by **type_5 (1,363 contacts)**, followed by **type_1 (267)** and **type_3 (176)**.
+- **Type_4** is consistently minimal across all markets.
+**Overall insight:**
+Type_5 consistently generates the highest number of first repeat calls across all markets, especially in Markets 1 and 3. Market_2 has the lowest engagement overall, suggesting a need for further investigation into market conditions or operational factors there.
+
 
 
 ![Repeat Calls by Month](Repeat_Calls_by_month.png)
