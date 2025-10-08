@@ -108,6 +108,15 @@ The stakeholders have requested a completed BI tool in six weeks.|
   |Scope|Fields include: date, market, problem_type, contact_n and contact_n_#|
   |Date filters and granularity|Data filters can be applied for the following:Week, Month, Quarter                                                            **Granularity:** Any chart with detailed metrics should have the ability to click on that metric to view specific information.|
 
+ **Metrics & Chats**
+
+ **Chart 1**
+|    Chart Feature        |    Request                |
+|-----------|---------------------|
+|     Chart Title      |    Day 0 Calls by day of week  |
+|Chart type| bar |
+|Dimension(s)|Date, Contact |
+|matrics| Date|
 
 **Data source**
 
