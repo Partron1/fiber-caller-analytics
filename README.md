@@ -73,10 +73,26 @@ The dashboards should offer text alternatives including large print and text-to-
 **Roll-out plan**
 The stakeholders have requested a completed BI tool in six weeks.|
 
- |Strategy requirement document|
-  |----------------------------|
-  |------------------|-------------|--------------------|
-  |                  |             |                    |
+
+
+ |Name: Francis Partron Addo|Role: BI Analyst|Date 20th Aug.2025|
+ |----------------------------|--------------------------------|-----------------|
+ |                            |                                |
+  
+  
+  
+  Proposer: Emma Santiage, Hiring Manager
+Status: Draft > Under review > Implemented | Not implemented
+Dataset: market_1, market_2, market_3
+User Profiles 
+•	Emma Santiage, Hiring Manager
+•	Keith Portone, Project Manager
+•	Minna Rah, Lead BI Analyst
+•	Ian Ortega, BI Analyst
+•	Sylvie Essa, BI Analyst
+|
+  
+ 
 
 **Data source**
 
