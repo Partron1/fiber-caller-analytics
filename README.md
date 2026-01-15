@@ -214,14 +214,14 @@ FROM `tekstain-25.fibre.market_3`
 
 
 **Query** 
-![Query](Query.png)
+![Query](images/Query.png)
 
 
 **Query result** 
 
 target table
 
-![Query result](Query_result.png)
+![Query result](images/Query_result.png)
 
 Results saved and downloded as .csv file, ready for further analysis and visualization in Tableau.
 
@@ -230,7 +230,7 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 
 - **Tool:** Tableua
 
-![Day 0 Calls by Day of Week](Day_0_Calls_by_Day_of_Week.png)
+![Day 0 Calls by Day of Week](images/Day_0_Calls_by_Day_of_Week.png)
 
 **Key observations:**
 
@@ -242,7 +242,7 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 **Overall insight:** Call activity is heavily concentrated during weekdays, especially early to mid-week, with a consistent decline on weekends — indicating business-hour or workweek-driven calling behavior.
 
 
-![Market and Type for First Call](Market_and_Type_for_First_Call.png)
+![Market and Type for First Call](images/Market_and_Type_for_First_Call.png)
 
 **Key observations:**
 
@@ -253,7 +253,7 @@ Results saved and downloded as .csv file, ready for further analysis and visuali
 **Overall insight:**
 Type_5 consistently generates the highest number of first repeat calls across all markets, especially in Markets 1 and 3. Market_2 has the lowest engagement overall, suggesting a need for further investigation into market conditions or operational factors there.
 
-![Repeat Calls by Month](Repeat_Calls_by_month.png)
+![Repeat Calls by Month](images/Repeat_Calls_by_month.png)
 
 **Key observations:**
 
@@ -264,10 +264,10 @@ Type_5 consistently generates the highest number of first repeat calls across al
 **Overall insight:**
 Repeat call volume is trending upward through the first quarter, with a particularly strong increase in March. The consistent dominance of “Contacts N” suggests it’s the key driver of overall repeat activity, potentially warranting deeper analysis into its causes and patterns.
 
-![Repeat Calls by First Call](Repeat_Calls_by_First_Call.png)
+![Repeat Calls by First Call](images/Repeat_Calls_by_First_Call.png)
 
 
-![Calls by market and Type](Calls_by_Market_and_Type.png)
+![Calls by market and Type](images/Calls_by_Market_and_Type.png)
 
 
 **Dashboard**
@@ -275,14 +275,14 @@ Repeat call volume is trending upward through the first quarter, with a particul
 
 - **First Dashboard**
 
-![Dashboard_1](Dashboard_1.png)
+![Dashboard_1](images/Dashboard_1.png)
 
 
 - **Second Dashboard**
 
-![Dashboard_2](Dashboard_2.png)
+![Dashboard_2](images/Dashboard_2.png)
 
 - **Third Dashboard**
 
-![Dashboard_3](Dashboard_3.png)
+![Dashboard_3](images/Dashboard_3.png)
   
